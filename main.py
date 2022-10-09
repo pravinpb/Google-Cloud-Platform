@@ -1,2 +1,3 @@
-print('HelloWorld')
-print("Added By Pravin")
+print("Rewriting all")
+print("hai")
+print("hi")
